@@ -26,8 +26,8 @@ const config: Config = {
                 },
             },
             fontFamily: {
-                tajawal: ["'Tajawal'", "sans-serif"],
-                inter: ["'Inter'", "sans-serif"],
+                tajawal: ["-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "Noto Sans", "Noto Sans Arabic", "sans-serif"],
+                inter: ["system-ui", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"],
             },
             animation: {
                 "fade-in": "fadeIn 0.6s ease-out forwards",
